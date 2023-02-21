@@ -1,0 +1,16 @@
+.home {
+  display: grid;
+  place-content: center;
+  gap: 20px;
+  padding-block: 50px;
+  width: 100%;
+}
+.button {
+  max-width: 200px;
+  padding: 10px 0;
+  border-radius: 8px;
+  background-color: rgb(94, 94, 94);
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
